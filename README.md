@@ -100,7 +100,7 @@ Model Selection: Compare with advanced models like Ridge, Lasso, or Random Fores
 
 👤 Author
 
-Subhadip Karmakmar
+SUBHADIP KARMAKAR
 
 Machine Learning Intern @ Skillcraft Technology
 
